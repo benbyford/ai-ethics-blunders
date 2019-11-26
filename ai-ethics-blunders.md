@@ -1,8 +1,8 @@
 Key:
 Company name, date, description, type
-    - example article 
-    - example video
-    - etc
+- example article 
+- example video
+- etc
 
 # Blunders
 
